@@ -1,0 +1,1 @@
+#simple asp.net core application using T-sql for database 
